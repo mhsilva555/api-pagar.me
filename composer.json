@@ -1,0 +1,17 @@
+{
+    "name": "api/pagar.me",
+    "description": "Plugin para comunicação com a Api da Pagar.me",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Api\\PagarMe\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Henrique"
+        }
+    ],
+    "require": {}
+}
